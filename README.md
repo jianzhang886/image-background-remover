@@ -1,6 +1,8 @@
-# Image Background Remover - MVP 需求文档
+# Image Background Remover ✨
 
 一个基于 Remove.bg API 的在线图片背景移除工具，部署在 Cloudflare Pages。
+
+🟢 **已部署成功：** https://61851b3d.image-background-remover-01c.pages.dev
 
 ## 项目概述
 
