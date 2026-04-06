@@ -170,9 +170,9 @@ function App() {
       {/* Header */}
       <header className="border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800">
         <div className="max-w-6xl mx-auto px-4 py-6">
-          <h1 className="text-3xl font-bold text-center">🖼️ Image Background Remover</h1>
+          <h1 className="text-3xl font-bold text-center">🖼️ 图片背景移除工具</h1>
           <p className="text-center text-gray-500 dark:text-gray-400 mt-2">
-            Powered by Remove.bg API • 所有图片仅在前端处理
+            Powered by Remove.bg API • 所有图片仅在前端处理 • 自动部署测试
           </p>
         </div>
       </header>
